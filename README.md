@@ -38,3 +38,7 @@ The program generates a list of unique random numbers, displays them with random
 Run the script and follow the prompts to visualize different sorting algorithms:
 ```bash
 python sorting_visualizer.py
+```
+
+## Customization
+**You can adjust the speed of the animations by changing the Time parameter in each sorting function call. The default is set to 0.01 seconds.**
