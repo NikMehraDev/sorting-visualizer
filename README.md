@@ -24,7 +24,7 @@ The program generates a list of unique random numbers, displays them with random
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/sorting-visualizer.git
+    git clone https://github.com/NikMehraDev/sorting-visualizer.git
     cd sorting-visualizer
     ```
 
